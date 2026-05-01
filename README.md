@@ -1,1 +1,3 @@
-# projetos-python
+# Trabalho TDE II - Raciocínio Algorítmico 
+Aprendendo GITHUB
+
